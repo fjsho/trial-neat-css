@@ -1,0 +1,25 @@
+{
+  "name": "trial-neat-css",
+  "version": "1.0.0",
+  "description": "Colissの以下の記事で紹介されていて気になっていた[Neat CSS](https://neat.joeldare.com/) について試してみたもの [プレーンなHTMLで、ミニマルなWebサイトを素早く構築できるシンプルなCSSのフレームワーク -Neat CSS](https://coliss.com/articles/build-websites/operation/css/minimalist-css-framework-neatcss.html)",
+  "main": "index.js",
+  "scripts": {
+    "lint": "htmlhint '**/*.html'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjsho/trial-neat-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fjsho/trial-neat-css/issues"
+  },
+  "homepage": "https://github.com/fjsho/trial-neat-css#readme",
+  "devDependencies": {
+    "htmlhint": "^1.7.1"
+  }
+}
